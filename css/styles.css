@@ -4,12 +4,33 @@
     margin: 0;
 }
 
+
+.text-center {
+    font-size: 100px;
+}
+/*
 .container {
     width: 100%;
 }
 
-nav.navbar-brand {
+.navbar-brand {
     background-color: gray;
     color: black;
     width: 100%;
 }
+
+div.passage {
+    background-color: gray;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+div.passage h2, div.passage p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+*/
