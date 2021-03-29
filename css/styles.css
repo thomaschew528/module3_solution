@@ -1,36 +1,29 @@
 
 * {
-    padding: 0;
     margin: 0;
 }
 
-
-.text-center {
-    font-size: 100px;
-}
-/*
 .container {
     width: 100%;
 }
 
-.navbar-brand {
+.text-center {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.col-xs-12 {
     background-color: gray;
-    color: black;
-    width: 100%;
+    /*margin-left: 20px;
+    margin-right: 20px; */
+    height: 500px;
 }
 
-div.passage {
-    background-color: gray;
-    margin-left: 20px;
-    margin-right: 20px;
-}
+/*
+@media (min-width) {
+    .col-xs-12 {
 
-div.passage h2, div.passage p {
-    text-align: center;
-}
+    }
 
-h1 {
-    text-align: center;
-    margin-bottom: 40px;
 }
 */
