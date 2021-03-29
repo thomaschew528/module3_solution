@@ -1,0 +1,15 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+nav.navbar-brand {
+    background-color: gray;
+    color: black;
+    width: 100%;
+}
