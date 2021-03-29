@@ -13,14 +13,14 @@
 }
 
 .col-xs-12 {
-    background-color: gray;
-    /*margin-left: 20px;
-    margin-right: 20px; */
+    background-color: #f8f8f8;
+    margin-left: auto;
+    margin-right: auto;
     height: 500px;
 }
 
 /*
-@media (min-width) {
+@media (max-width: 768px) {
     .col-xs-12 {
 
     }
