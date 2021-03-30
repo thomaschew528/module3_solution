@@ -4535,10 +4535,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888;
 }
+/*
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
- 
 }
+*/
+
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
