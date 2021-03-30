@@ -26,7 +26,7 @@
 }
 
 nav.navbar-default {
-    background-color:/* #ffeb7a*/;
+    background-color: #ffeb7a;
 }
 
 .navbar-default .navbar-collapse {
@@ -34,7 +34,9 @@ nav.navbar-default {
 }
 
 .navbar-collapse .navbar-nav li {
+    border-color: gray;
     text-align: center;
+    font-weight: bold;
 }
 
 .navbar-collapse .navbar-nav li:nth-child(2) {
@@ -42,9 +44,11 @@ nav.navbar-default {
     border-bottom: 1px solid #3b3b3b;
 }
 
+/*
 @media (max-width: 768px) {
     .navbar-default .navbar-collapse {
-        background-color:/* #fffacd;*/
+        background-color: #e7e7e7;
+    }
 }
-}
+*/
 
